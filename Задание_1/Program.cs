@@ -94,15 +94,6 @@ namespace Table
                     list[j + 1] = temp;
                 }
 
-
-            
-           
-
-           
-            
-
-    
-
         public static void Main()
         {
             List<Item> list = new List<Item>();
