@@ -98,52 +98,8 @@ namespace Table
             
            
 
-            //   list[j + 1] = buf;
-
-            //}
-
-            //int index;
-            //for (int i = 0; i < list.Count; i++) {
-            //    index = i;
-            //    var temp = list[i];
-            //    while (index > 0 && list[i].NameFilm == 1) {
-            //        list[index] = list[index - 1];
-            //        index--;
-            //    }
-            //    list[index] = list[index - 1];
-
-            //}
-            //list[index] = temp;
-
-            //for (int i = 1; i < list.Count; i++) {
-            //    var current = list[i].NameFilm;
-            //    var j = i - 1;
-            //    while (j >= 0) {
-            //        while (list[j].NameFilm.Contains(current)) {
-            //            list[j + 1] = list[j];
-            //            j--;
-            //        }
-            //    }
-            //    list[j + 1] = current.Cz;
-            //}
-        }
-    
-            //for (int i = 1; i < list.Count; i++)
-            //{
-
-            //    var temp = list[i];
-                
-            //    for (int j = i - 1; j >= 0; j--) {
-
-            //        while (j > 0 && (list[i].NameFilm.CompareTo(list[j].NameFilm) == 1))
-            //        {
-            //            list[j + 1] = list[j];
-            //            list[j + 1] = temp;
-            //        }
-                   
-            //    }              
-                
-            //}
+           
+            
 
     
 
